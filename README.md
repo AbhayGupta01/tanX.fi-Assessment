@@ -22,30 +22,30 @@
 
 ![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/8abc3e37-c2f3-46d9-ae62-7e8fb6b7cded)
 
+### Home page / Products page:
 
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/93496eb8-a2e3-4de0-8c44-4a6188eaa055)
 
-### Home page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/62780056/181879305-761784af-4115-432d-b5e5-c0704dd1349e.png">
+## Favourites page:
 
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/62780056/181879222-a17ace6c-d41d-48df-a529-939bbf985be1.png">
-
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/62780056/181879200-b9188339-1575-4e96-ba93-57653705e899.png">
-
-### Favourites Page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/62780056/181879549-7c43e592-6f0b-410d-8c57-748d4e2c0d6a.png">
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/d90c3cfc-7f58-402d-ac9b-4cbab99a7f64)
 
 ### Product detail page
 
-<img width="1512" alt="Screenshot 2022-07-24 at 10 53 17 AM" src="https://user-images.githubusercontent.com/62780056/181879873-bebf0b8a-5964-45dd-bd26-5b4f8acf93a7.png">
-<img width="1512" alt="Screenshot 2022-07-24 at 10 53 17 AM" src="https://user-images.githubusercontent.com/62780056/181879896-258fd7dd-4ea7-4a9a-8829-53bfd996448b.png">
-<img width="1512" alt="Screenshot 2022-07-24 at 10 53 17 AM" src="https://user-images.githubusercontent.com/62780056/181879915-576bc16b-9835-42a2-ac8e-56810ba34311.png">
-<img width="1512" alt="Screenshot 2022-07-24 at 10 53 17 AM" src="https://user-images.githubusercontent.com/62780056/181879928-8df0f9da-c1a7-406b-a48f-59cccc00c7d6.png">
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/ec3a7da9-7d2a-49f6-8307-1e4e27dfd53c)
+
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/564354fa-0baa-4c8e-8ad4-a1bd157d31ac)
+
 
 ### Cart page
 
-<img width="1415" alt="Screenshot 2022-07-24 at 10 50 18 AM" src="https://user-images.githubusercontent.com/62780056/181879821-29d4327d-c887-4b2f-99b4-62bd0a487cb7.png">
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/55191145-25d8-4f60-afc0-8c399982be22)
 
-<img width="1415" alt="Screenshot 2022-07-24 at 10 50 18 AM" src="https://user-images.githubusercontent.com/62780056/181879833-3b37e0d4-e635-40cc-8aca-3c31c4f91791.png">
 
-<img width="1472" alt="Screenshot 2022-07-24 at 10 51 16 AM" src="https://user-images.githubusercontent.com/62780056/181879139-33da41f8-02bd-4ffc-8cde-4ef075b61481.png">
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/b1efe0ff-29b1-4980-8609-f7d063c9048b)
+
+
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/2d0a52ab-d077-4a5e-8f94-d5a72f78873d)
+
+
 
