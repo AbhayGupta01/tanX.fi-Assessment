@@ -9,12 +9,19 @@
 
 ## Screenshots
 
-### Login/Register page
+### Login/Register page:
 
 ![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/06a96c89-ba30-4f3f-8d9a-bac8df5b5516)
 
-<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://user-images.githubusercontent.com/62780056/181879511-02c38158-51be-4023-ace1-a3d21d2bc92f.png">
-<img width="1512" alt="Screenshot 2022-07-24 at 10 44 13 AM" src="https://user-images.githubusercontent.com/62780056/181879519-51c209b7-29d3-45af-af20-82cc2ccb2c1c.png">
+## Email Validation (It also verifies the user using password):
+
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/3c38bf12-46f8-4962-a5dc-d07e1e179868)
+
+
+## Email, Username and Password Validations:
+
+![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/8abc3e37-c2f3-46d9-ae62-7e8fb6b7cded)
+
 
 
 ### Home page
