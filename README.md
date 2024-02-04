@@ -22,6 +22,15 @@ I have done my best to achieve all the required functionalities while keeping th
 - `npm run server` - To start the JSON server
 - `npm start` - To start the react app
 
+OR
+
+- Download the code
+- Run `npm i`
+- Run `npm run server`
+- Run `npm start`
+
+And you are good to go!
+
 ## Screenshots
 
 ### Login/Register page:
