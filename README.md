@@ -1,5 +1,20 @@
 # Ecommerce (React) Coding Assessment
 
+## Working functionalities:
+1. Login/SignUp.
+2. Favourites Page and adding items to favourites.
+3. Cart Page (Incrementing, Decrementing item quantities, remove the item from cart, calculating the total bill with some discount and Order confirmation).
+4. Multiple users can register in this site, it is not limited to one user.
+5. Only if user has logged in, the cart and favourites become functional otherwise the user won't be able to add items in the cart or favourites.
+6. Email and Password verification from the db.json file.
+7. Email format validations.
+
+## Improvements if more time is given:
+1. I have used localStorage to handle the session of any user, a better approach could have been using the jsonwebtoken to handle the sessions.
+2. There is issue in favourites and cart page which was due to the distribution of item.id of favourites page items and cart page items being similar. Can be resolved if more time is alloted.
+
+I have done my best to achieve all the required functionalities while keeping the UI as minimal as possible.
+
 ## Development Setup
 
 - Clone this repo
@@ -46,6 +61,16 @@
 
 
 ![image](https://github.com/AbhayGupta01/tanX.fi-Assessment/assets/80665616/2d0a52ab-d077-4a5e-8f94-d5a72f78873d)
+
+API can be launched using npm run server.
+| Endpoint | Result |
+|------------------------------|-----------------------------------------------------|
+| /users | Lists all available users |
+| /products | Lists all available products |
+| /orders | Lists all available orders  
+| /favourites | Lists all available favourites
+
+Refer - [JSON sever](https://www.npmjs.com/package/json-server) docs for more information
 
 
 
